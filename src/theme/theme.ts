@@ -24,7 +24,7 @@ const theme = extendTheme({
   styles: {
     global: {
       body: {
-        bg: "primary.500",
+        bg: "black",
         width: "100%",
       },
     },
